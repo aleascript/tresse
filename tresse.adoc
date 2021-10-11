@@ -1,0 +1,14 @@
+= La Tresse
+aleascript@gmail.com
+Version 0.1
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: La Tresse est un moteur narratif pour jeux de rôles
+:keywords: JdR, Moteur narratif, Partage d'autorité, Solo
+:imagesdir: ./img
+image::licence.png[]
+
+include::docs/modes.adoc[Modes de jeu]
