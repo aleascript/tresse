@@ -8,7 +8,7 @@ Lexique un peu particulier pour les héros: à utiliser, modifier suivant vos go
 * Avec un ou des problèmes à régler
 * Avec un ou plusieurs objectifs
 * Je réponds aux questions des autres joueurs concernant le héros
-* J’incarne ce personnage
+* J’incarne et interprète ce personnage
 * Je pense, agit comme lui
 * Je développe sa morale, ses croyances
 * J’imagine des phrases ou des expressions types
